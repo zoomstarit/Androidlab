@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ab_3</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="name_hint">Name</string>
+    <string name="next">Next</string>
+    <string name="welcome">Welcome!</string>
+    <string name="thank_you">Thank You</string>
+    <string name="dont_call_me">Don\'t call me that</string>
+    <string name="welcome_name">Welcome %1$s!</string>
+</resources>
